@@ -1,0 +1,53 @@
+# Node.js (frontend)
+node_modules/
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Django / Python (backend)
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.env
+db.sqlite3
+media/
+staticfiles/
+
+# OS / IDE files
+.vscode/
+.DS_Store
+Thumbs.db
+
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Build output
+dist/
+build/
+out/
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Misc
+coverage/
+*.tgz
